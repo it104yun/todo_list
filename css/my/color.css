@@ -1,0 +1,23 @@
+:root {
+    /* Color from : https://www.shutterstock.com/zh-Hant/blog/101-free-color-combinations-design-inspiration */
+    /* 說明 : Home  免費下載  激發你的設計靈感!! 讓人愛不釋手的101組配色方案 */
+        /* 01.舒適與中性(Comfy & Neutral) */
+        --ComfyNeutral_mushroom : #E1DCD9;
+        --ComfyNeutral_elephant : #8F8681;
+        --ComfyNeutral_thatch : #A67F78;       /* 茅草(稻草)        */
+        --ComfyNeutral_gunmetal : #32435F;     /* 砲銅的；青銅的  */      
+
+        /* 03.薄霧綠(Misty Greens) */
+        --MistyGreen_swansdown : #D1EDE1;      /*天鵝的絨毛；用於做嬰兒衣服的柔軟的布料*/
+        --MistyGreen_larchmere : #7BC5AE;      /*larch:落葉松屬植物 */
+        --MistyGreen_observatory : #028C6A;    /*天文臺；氣象臺 */
+        --MistyGreen_kaitoke : #003E19;    /*Kaitoke Regional Park */
+
+        /* ForeGround Color */
+        /* BackGround Color */
+
+    /* PX     */
+        /* Margin */
+        /* Padding */
+        /* Spacing */
+}
