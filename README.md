@@ -2,8 +2,16 @@
 ### 上傳日期:2023/3/28
 ### 作者:蘇麗雲 Sophia.liyun
 ### 前端語言:JavaScript,VUE
-<img src="images/topic.jpg" >
+### 功能:
+<ol>
+ <li>CRUD待辦事項
+ <li>CRUD待辦事項明細
+ <li>待辦事項明細的"收合"
+ <li>待辦事項"已完成/未完成"的即時分類
+</ol>
+<img src="images/topic.jpg">
 
+# 更新時程及內容
  |NO |PUSH DATE|TOPIC|CONTENT|
  |-----|--------|--------|----|
  |1|2023/3/28|首次上傳||
